@@ -1,0 +1,160 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Prabhat Koutha
+title: Quantitative Research intern @ Millennium Management
+email: pk454@cornell.edu
+website: pkcuiitr.github.io
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+#twitter_username: facespics
+github_username:  pkcuiitr
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: jameswgrant
+linkedin_username: prabhatkoutha
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Prabhat and I'm a an incoming Quantitaive Research intern at Millennium Management in the Energy Trading team. I am currently a Master of Engineering in Financial Engineering student at Cornell University and have recieved my Bachelor of Technology at Indian Institute of Technology (IIT) Roorkee.
+
+  I am most passionate about: <mark>Chess</mark> and <mark>Soccer (Força Barça!)</mark>
+
+content:
+
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Pebbl Exchange (Acquired by Magnifi)
+        link: https://magnifi.com
+        # link_text: boringcompany.com
+        sub_title: Quantitaive Researcher
+        caption: November 2020 to April 2022
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          #Natural Language Processing: Built for Wilma, a personalized AI financial consultant, using Conversational AI architecture with Transformer models (GPT-3, BERT) for intent recognition, context recognition, and dialog generation
+          #Big Data: Engineered the Intelligent investment bot, utilizing Machine Learning and Deep Learning models for the NLP engine; improved bot speed by 87% and accuracy by 91% through data pipeline optimization
+
+
+      - layout: left
+        title: WorldQuant Research (India)
+        link: https://www.worldquant.com
+        # link_text: boringcompany.com
+        sub_title: Research Consultant
+        caption: July 2019 to October 2019 & May 2022 to July 2022
+        description: | # this will include new lines to allow paragraphs
+          #Alpha Research: Developed market-neutral, fully automated trading algorithms using fundamental, price-volume, volatility,
+          news, analyst, and sentiment datasets, among others, in U.S., Europe, and Asia equity markets, and performed backtesting
+          #Achieved high Sharpe ratios, low drawdowns, and significant returns by devising low-correlated alphas with statistically
+          significant signals and operators such as turnover controls, factor neutralization, dynamic target and stop-loss
+
+      - layout: left
+        title: IDBI Capital Markets & Securities
+        link: https://idbicapital.com/index.asp
+        # link_text: boringcompany.com
+        sub_title: Investment Banking intern
+        caption: May 2019 to July 2019
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            #Worked on debt syndication of a civil construction company worth U.S. $16 MM
+            #Performed Financial Modeling relying on EV/EBITDA and P/E valuation techniques; conducted preliminary due diligence
+             with Financial Statement analysis; assisted in Confidential Information Memorandum and pitch books preparation
+  #- title: Projects # Title for the section
+    #layout: list # Type of content section (list/text)
+  #  content:
+    #  - layout: top-middle
+    #    title: Super awesome project
+      #  link: github.com/sproogen
+        # link_text: Project Website
+    #    additional_links:
+      #    - title:  sproogen/modern-resume-theme
+      #      icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      #  quote: >
+      #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+      #  description: | # this will include new lines to allow paragraphs
+      #    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Cornell University
+        caption: 2022 - 2023
+        sub_title: Master of Engineering in Financial Engineering
+
+      - layout: left
+        title: Indian Institute of Technology (IIT) Roorkee
+        caption: 2017 - 2021
+        sub_title: B.Tech in Chemical Engineering (spl. Polymer Science and Engineering)
+        #quote: >
+          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          #I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in Financial markets and Data Science some of my other interests and hobbies are:
+      - Chess
+      - Soccer
+      - Anime (watched Naruto 3 times!)
+      - Puzzles
+
+#      Look at this cool image
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
