@@ -67,8 +67,9 @@ content:
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          #Natural Language Processing: Built for Wilma, a personalized AI financial consultant, using Conversational AI architecture with Transformer models (GPT-3, BERT) for intent recognition, context recognition, and dialog generation
-          #Big Data: Engineered the Intelligent investment bot, utilizing Machine Learning and Deep Learning models for the NLP engine; improved bot speed by 87% and accuracy by 91% through data pipeline optimization
+          Natural Language Processing: Built for Wilma, a personalized AI financial consultant, using Conversational AI architecture with Transformer models (GPT-3, BERT) for intent recognition, context recognition, and dialog generation
+          
+          Big Data: Engineered the Intelligent investment bot, utilizing Machine Learning and Deep Learning models for the NLP engine; improved bot speed by 87% and accuracy by 91% through data pipeline optimization
 
 
       - layout: left
@@ -78,9 +79,10 @@ content:
         sub_title: Research Consultant
         caption: July 2019 to October 2019 & May 2022 to July 2022
         description: | # this will include new lines to allow paragraphs
-          #Alpha Research: Developed market-neutral, fully automated trading algorithms using fundamental, price-volume, volatility,
+          Alpha Research: Developed market-neutral, fully automated trading algorithms using fundamental, price-volume, volatility,
           news, analyst, and sentiment datasets, among others, in U.S., Europe, and Asia equity markets, and performed backtesting
-          #Achieved high Sharpe ratios, low drawdowns, and significant returns by devising low-correlated alphas with statistically
+          
+          Achieved high Sharpe ratios, low drawdowns, and significant returns by devising low-correlated alphas with statistically
           significant signals and operators such as turnover controls, factor neutralization, dynamic target and stop-loss
 
       - layout: left
@@ -92,8 +94,9 @@ content:
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            #Worked on debt syndication of a civil construction company worth U.S. $16 MM
-            #Performed Financial Modeling relying on EV/EBITDA and P/E valuation techniques; conducted preliminary due diligence
+            Worked on debt syndication of a civil construction company worth U.S. $16 MM
+            
+            Performed Financial Modeling relying on EV/EBITDA and P/E valuation techniques; conducted preliminary due diligence
              with Financial Statement analysis; assisted in Confidential Information Memorandum and pitch books preparation
   #- title: Projects # Title for the section
     #layout: list # Type of content section (list/text)
