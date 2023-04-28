@@ -125,8 +125,9 @@ content:
         caption: 2022 - 2023
         sub_title: Master of Engineering in Financial Engineering
         quote: >
-          #Did you know that Cornell University has its very own ice cream? The famous "Cornell Dairy Bar" on campus whips up a delightful ice cream treat called "Big Red Bear Tracks." Made with vanilla ice cream, chocolate fudge, and peanut butter cups, this delicious dessert pays homage to the school's mascot, the Big Red Bear, and has become a beloved tradition for students and visitors alike.
+          Did you know that Cornell University has its very own ice cream? The famous "Cornell Dairy Bar" on campus whips up a delightful ice cream treat called "Big Red Bear Tracks." Made with vanilla ice cream, chocolate fudge, and peanut butter cups, this delicious dessert pays homage to the school's mascot, the Big Red Bear, and has become a beloved tradition for students and visitors alike.
         description: | # this will include new lines to allow paragraphs
+            During my time at Cornell as a graduate student, I relished the vibrant campus life and the warm, diverse community. The stimulating academic environment and the opportunity to learn from brilliant minds made my experience truly unforgettable.
         #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           #I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
@@ -137,8 +138,10 @@ content:
         caption: 2017 - 2021
         sub_title: B.Tech in Chemical Engineering (spl. Polymer Science and Engineering)
         quote: >
-          #Did you know that the Indian Institute of Technology (IIT) Roorkee was once a center for detective training? Established in 1847 as the Thomason College of Civil Engineering, it played a significant role in training "super-sleuths" during British rule in India. Before it became one of India's premier engineering institutions, IIT Roorkee contributed to shaping the intelligence and crime-solving skills of detectives who helped maintain law and order in colonial India.
+          Did you know that the Indian Institute of Technology (IIT) Roorkee was once a center for detective training? Established in 1847 as the Thomason College of Civil Engineering, it played a significant role in training "super-sleuths" during British rule in India. Before it became one of India's premier engineering institutions, IIT Roorkee contributed to shaping the intelligence and crime-solving skills of detectives who helped maintain law and order in colonial India.
         description: | # this will include new lines to allow paragraphs
+             At IIT Roorkee, I stepped out of my comfort zone, diving headfirst into a world of new experiences and opportunities. This undergraduate journey was a thrilling exploration, one where I embraced different academic pursuits, pursued varied interests, and grew both personally and professionally.
+        
         #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           #I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
